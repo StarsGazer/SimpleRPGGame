@@ -1,0 +1,4 @@
+﻿  GameScene.cpp
+c:\users\ll\documents\visual studio 2015\projects\mysimplerpggame\mysimplerpggame\gamescene.cpp(610): warning C4305: “参数”: 从“int”到“char”截断
+c:\users\ll\documents\visual studio 2015\projects\mysimplerpggame\mysimplerpggame\gamescene.cpp(610): warning C4309: “参数”: 截断常量值
+  MySimpleRPGGame.vcxproj -> C:\Users\ll\documents\visual studio 2015\Projects\MySimpleRPGGame\Debug\MySimpleRPGGame.exe
